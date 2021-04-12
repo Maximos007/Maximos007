@@ -1,6 +1,6 @@
 ### Olá!! sou a Wasley 👋
 
-- Atualmente meu foco é o desenvolvimento web :computer:
+- Atualmente meu foco é o front-end e sei um puco de back-end :computer:
 
      <img height="150em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maximos007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
      <img height="150em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maximos007&layout=compact&langs_count=8&theme=tokyonight"/>
