@@ -1,4 +1,4 @@
-### Olá!! sou a Wasley 👋
+### Olá!! sou Wasley 👋
 
 - Atualmente meu foco é o front-end e sei um puco de back-end :computer:
 
