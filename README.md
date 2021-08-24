@@ -22,8 +22,8 @@
   
   ## Connect with me:
 
-<a href="https://www.instagram.com/w.asleyy/" target="_blank">
-<img align="center" alt="wasley" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<!-- <a href="https://www.instagram.com/w.asleyy/" target="_blank"> -->
+<!-- <img align="center" alt="wasley" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"> -->
 </a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=waslleymax@gmail.com" target="_blank">
 <img align="center" alt="wasley" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width:100%;">
